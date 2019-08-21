@@ -4,9 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Fetching Data in Flutter and Displaying in ListView:
+    [Read more](https://medium.com/flutter-community/fetching-data-in-flutter-and-displaying-in-listview-ec1bb72af22c)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
